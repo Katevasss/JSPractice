@@ -1,0 +1,43 @@
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  background: white;
+  color: black;
+}
+
+h1{
+    font-size:54px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: 27px;
+  line-height: 38px;
+}
+
+section {
+  margin-bottom: 650px;
+}
+
+.joinButton{
+    background-color: #0096A7;
+    border-radius: 10px;
+    color: white;
+}
+
+.sectionFirst{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+background-color: rgba(246, 248, 251, 0.9);;
+}
+
+.imgFirst{
+    width: 50%;
+    height: 50%;
+}
